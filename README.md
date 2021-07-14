@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @154pinkchairs
-- 👀 I’m interested in cybersecurity and simulation games.
-- 🌱 I’m currently learning QA, SQL and Python
+- 👀 I’m interested in cybersecurity, neural networks and simulation games.
+- 🌱 I’m currently learning QA, React, Angular, SQL and Python
 - 💞️ I’m looking to collaborate on FOSS
 - 📫 How to reach me: 154pinkchairs@protonmail.com
 
