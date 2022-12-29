@@ -1,16 +1,11 @@
 - 👋 Hi, I’m @154pinkchairs
-- 👀 I’m interested in cybersecurity, cloud native backend engineering and systems programming
+- 👀 I’m interested in cybersecurity, backend and systems programming.
 
 ---
 
-## Languages
-
-**Proficient in:** Go, Typescript, JavaScript, SQL, Bash
-**Less skilled in, but open to:** C, Lua, Rust
-
 ## Some of the tools I use
 
-- Editor: **Neovim**
+- Editor: **Lunarvim**
 - OS: **Alpine, Manjaro, OpenWRT** (router), **Graphene OS** (smartphone)
 - Terminal: **tmux + alacritty**
 - WM: **Sway**
