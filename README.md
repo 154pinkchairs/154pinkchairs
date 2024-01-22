@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @154pinkchairs
-- 👀 I’m interested in cybersecurity, backend and systems programming, especially in context of decentralized systems and technologies, such as ActivityPub or IPFS.
+- 👋 Hi, I’m @mjholub
+- I’m interested in cybersecurity, backend and systems programming, especially in context of decentralized systems and technologies, such as ActivityPub or IPFS.
 
 ---
 
