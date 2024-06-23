@@ -1,4 +1,6 @@
-- I use Go often for my personal project for performance reasons mostly, but I like the DX of Elixir and Clojure even more.
+- [Out of the Tar Pit](https://curtclifton.net/papers/MoseleyMarks06a.pdf)
+- [Simple made easy by Rich Hickey](https://yewtu.be/watch?v=LKtk3HCgTa8)
+
 see my codeberg for other projects
 ---
 
