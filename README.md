@@ -1,5 +1,5 @@
 - [Out of the Tar Pit](https://curtclifton.net/papers/MoseleyMarks06a.pdf)
-- [Simple made easy by Rich Hickey](https://yewtu.be/watch?v=LKtk3HCgTa8)
+- ["Simple made easy" by Rich Hickey](https://yewtu.be/watch?v=LKtk3HCgTa8)
 
 see my codeberg for other projects
 ---
