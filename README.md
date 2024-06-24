@@ -4,6 +4,8 @@
 >Any sufficiently complicated C or Fortran program contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.  
 ([Greenspun's Tenth rule](https://en.wikipedia.org/wiki/Greenspun's_tenth_rule))
 
+[Dotfiles](https://codeberg.org/mjh/dotsv2)
+
 see [my codeberg](https://codeberg.org/mjh/LibRate) for other projects
 ---
 
